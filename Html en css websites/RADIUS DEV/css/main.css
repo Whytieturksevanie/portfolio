@@ -1,0 +1,857 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../font/Roboto-Regular.eot');
+    src: url('../font/Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../font/Roboto-Regular.woff2') format('woff2'),
+        url('../font/Roboto-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background: #f9f9f9;
+    font-family: 'Roboto';
+}
+
+.wrapperheader {
+    padding-top: 20px;
+    margin:0 auto;
+    max-width: 960px
+}
+
+header {
+    height: 50px;
+    width: 100%;
+    background: #282828;
+}
+
+.mail {
+    position: relative;
+    left: 100%;
+}
+
+.phone {
+    position: relative;
+    left: 70%;
+    z-index: 1;
+}
+
+.phonetext p {
+    font-weight: normal;
+    font-style: normal;
+    position: relative;
+    right: 29.2%;
+    bottom: 20px;
+    text-align: right;
+    color: #fff;
+}
+
+.mailtext p {
+    font-weight: normal;
+    font-style: normal;
+    position: relative;
+    right: 10.6%;
+    bottom: 38px;
+    text-align: right;
+    color: #fff;
+}
+
+nav .container {
+    display: flex;
+    justify-content: space-around;
+    margin:0 auto;
+}
+
+.logo h1 {
+    font-weight: normal;
+    font-style: normal;
+    color: #636666;
+}
+
+.nav a {
+    font-weight: normal;
+    font-style: normal;
+    margin-left: 10px;
+    color: #000;
+    text-decoration: none;
+    position: relative;
+    top: 30px;
+}
+
+.buttonsignin {
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 25px;
+    color: #72be5f;
+    border: 2px solid #72be5f;
+}
+
+.buttonsignin:link {
+    color: #72be5f;
+}
+
+.buttonsignin:visited {
+    color: #72be5f;
+}
+
+main {
+    width: 100%;
+    background: #4ca368;
+}
+
+.wrappermain {
+    padding-top: 50px;
+    margin:0 auto;
+    max-width: 1200px;
+}
+
+.wrappermain h2 {
+    font-size: 35px;
+    font-weight: normal;
+    font-style: normal;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.wrappermain p {
+    text-align:  center;
+    padding-top: 5px;
+    position: relative;
+    left: 26%;
+    width: 560px;
+}
+
+.wrappermain img {
+    padding-top: 50px;
+}
+
+.borderp {
+    color: #c4c4c4;
+    width: 200px;
+    border: 2px solid #fff;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 25px;
+    background: #fff;
+}
+
+.searchbar {
+    margin:0 auto;
+    max-width: 300px;
+}
+
+.buttonlorem {
+    position: relative;
+    bottom: 30px;
+    left: 70%;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-radius: 25px;
+    background: #377f4d;
+    color: #fff;
+    text-decoration: none;
+}
+
+.nonep {
+    color: #fff;
+    position: relative;
+    right: 50px;
+    width: 500px;
+    padding-bottom: 50px;
+}
+
+.wrapperprogrammingplatform {
+    margin:0 auto;
+    max-width: 380px
+} 
+
+.wrapperprogrammingplatform h3 {
+    position: relative;
+    right: 22%;
+    width: 150%;
+    font-size: 30px;
+    font-weight: normal;
+    font-style: normal;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+.programmingplatform {
+    padding-bottom: 50px;
+    background: #f9f9f9;
+}
+
+.programmingplatformimage {
+    z-index: 1;
+    background-color: #fff;
+    position: relative;
+    left: 55%;
+    width: 340px;
+    height: 350px;
+}
+
+.programmingplatformimagetwo {
+    background-color: #5db443;
+    z-index: 1;
+    position: relative;
+    left: 30%;
+    width: 340px;
+    height: 350px;
+}
+
+.programmingplatformimagethree {
+    z-index: 1;
+    background-color: #fff;
+    position: relative;
+    left: 5%;
+    width: 340px;
+    height: 350px;
+}
+
+.programmingplatformimagefour {
+    z-index: 1;
+    background-color: #fff;
+    position: relative;
+    right: 20%;
+    width: 340px;
+    height: 350px;
+}
+
+.programmingplatformimagefive {
+    z-index: 1;
+    background-color: #fff;
+    position: relative;
+    left: 55%;
+    width: 340px;
+    height: 350px;
+}
+
+.programmingplatformimagesix {
+    z-index: 1;
+    background-color: #fff;
+    position: relative;
+    left: 30%;
+    width: 340px;
+    height: 350px;
+}
+
+.programmingplatformimageseven {
+    z-index: 1;
+    background-color: #fff;
+    position: relative;
+    left: 5%;
+    width: 340px;
+    height: 350px;
+}
+
+.programmingplatformimageeight {
+    z-index: 1;
+    background-color: #fff;
+    position: relative;
+    right: 20%;
+    width: 340px;
+    height: 350px;
+}
+
+.wrapperprogrammingplatformimage {
+    padding-bottom: 50px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 20px;
+}
+
+.programmingplatformimage p {
+    padding-left: 5px;
+    padding-top: 5px;
+    position: relative;
+    top: 50px;
+    right: 10px;
+    width: 350px;
+    text-align: center;
+    color: #c4c4c4;
+}
+
+.programmingplatformimagetwo p {
+    padding-top: 5px;
+    padding-left: 5px;
+    color: #fff;
+    padding-top: 5px;
+    position: relative;
+    top: 50px;
+    right: 10px;
+    width: 350px;
+    text-align: center;
+}
+
+.programmingplatformimagethree p {
+    padding-top: 5px;
+    padding-left: 5px; 
+    position: relative;
+    top: 50px;
+    right: 10px;
+    width: 350px;
+    text-align: center;
+    color: #c4c4c4;
+}
+
+.programmingplatformimagefour p {
+    padding-top: 5px;
+    padding-left: 5px; 
+    position: relative;
+    top: 50px;
+    right: 10px;
+    width: 350px;
+    text-align: center;
+    color: #c4c4c4;
+}
+
+.programmingplatformimagefive p {
+    padding-top: 5px;
+    padding-left: 5px; 
+    position: relative;
+    top: 50px;
+    right: 10px;
+    width: 350px;
+    text-align: center;
+    color: #c4c4c4;
+}
+
+.programmingplatformimagesix p {
+    padding-top: 5px;
+    padding-left: 5px; 
+    position: relative;
+    top: 50px;
+    right: 10px;
+    width: 350px;
+    text-align: center;
+    color: #c4c4c4;
+}
+
+.programmingplatformimageseven p {
+    padding-top: 5px;
+    padding-left: 5px; 
+    position: relative;
+    top: 50px;
+    right: 10px;
+    width: 350px;
+    text-align: center;
+    color: #c4c4c4;
+}
+
+.programmingplatformimageeight p {
+    padding-top: 5px;
+    padding-left: 5px; 
+    position: relative;
+    top: 50px;
+    right: 10px;
+    width: 350px;
+    text-align: center;
+    color: #c4c4c4;
+}
+
+.programmingplatformimage h4 {
+    position: relative;
+    top: 10px;
+    right: 20px;
+    text-align: center;
+}
+
+.programmingplatformimagetwo h4 {
+    position: relative;
+    top: 10px;
+    right: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+.programmingplatformimagethree h4 {
+   position: relative;
+    top: 10px;
+    right: 20px;
+    text-align: center;
+}
+
+.programmingplatformimagefour h4 {
+    position: relative;
+    top: 10px;
+    right: 20px;
+    text-align: center;
+}
+
+.programmingplatformimagefive h4 {
+    position: relative;
+    top: 10px;
+    right: 20px;
+    text-align: center;
+}
+
+.programmingplatformimagesix h4 {
+    position: relative;
+    top: 10px;
+    right: 20px;
+    text-align: center;
+}
+
+.programmingplatformimageseven h4 {
+    position: relative;
+    top: 10px;
+    right: 20px;
+    text-align: center;
+}
+
+.programmingplatformimageeight h4 {
+    position: relative;
+    top: 10px;
+    right: 20px;
+    text-align: center;
+}
+
+.programmingplatformimage img {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    position: relative;
+    left: 120px;
+}
+
+.programmingplatformimagetwo img {
+    position: relative;
+    z-index: 1;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    position: relative;
+    left: 120px;
+}
+
+.programmingplatformimagethree img {
+    position: relative;
+    z-index: 1;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    position: relative;
+    left: 120px;
+}
+
+.programmingplatformimagefour img {
+    position: relative;
+    z-index: 1;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    position: relative;
+    left: 120px;
+}
+
+.programmingplatformimagefive img {
+    position: relative;
+    z-index: 1;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    position: relative;
+    left: 120px;
+}
+
+.programmingplatformimagesix img {
+    position: relative;
+    z-index: 1;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    position: relative;
+    left: 120px;
+}
+
+.programmingplatformimageseven img {
+    position: relative;
+    z-index: 1;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    position: relative;
+    left: 120px;
+}
+
+.programmingplatformimageeight img {
+    margin: 5px 5px 0 0;
+    position: relative;
+    z-index: 1;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    position: relative;
+    left: 120px;
+}
+
+.stripe {
+    z-index: 1;
+    position: relative;
+    bottom: 700px;
+    left: 19%;
+    background: #ebebeb;
+    height: 2px;
+    width: 4%;
+}
+
+.stripetwo {
+    z-index: 1;
+    position: relative;
+    bottom: 700px;
+    left: 38.5%;
+    background: #ebebeb;
+    height: 2px;
+    width: 4%;
+}
+
+.stripethree {
+    z-index: 1;
+    position: relative;
+    bottom: 700px;
+    left: 58%;
+    background: #ebebeb;
+    height: 2px;
+    width: 4%;
+}
+
+.stripefour {
+    z-index: 1;
+    position: relative;
+    bottom: 705px;
+    left: 77%;
+    background: #ebebeb;
+    height: 2px;
+    width: 4%;
+}
+
+.stripefive {
+    z-index: 1;
+    position: relative;
+    bottom: 340px;
+    left: 19%;
+    background: #ebebeb;
+    height: 2px;
+    width: 4%;
+}
+
+.stripesix {
+    z-index: 1;
+    position: relative;
+    bottom: 335px;
+    left: 38%;
+    background: #ebebeb;
+    height: 2px;
+    width: 4%;
+}
+
+.stripeseven {
+    z-index: 1;
+    position: relative;
+    bottom: 340px;
+    left: 58%;
+    background: #ebebeb;
+    height: 2px;
+    width: 4%;
+}
+
+.stripeeight {
+    z-index: 1;
+    position: relative;
+    bottom: 340px;
+    left: 76.5%;
+    background: #ebebeb;
+    height: 2px;
+    width: 4%;
+}
+
+.wrapperfooter {
+    padding-top: 50px;
+    margin:0 auto;
+    max-width: 960px;
+}
+
+footer {
+    padding-bottom: 50px;
+    height: 500px;
+    background: #efefef;
+}
+
+.radiusrightfirst {
+    position: relative;
+    right: 200px;
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+
+.borderptwo {
+    position: relative;
+    right: 200px;
+    color: #c4c4c4;
+    width: 360px;
+    padding-right: 25px;
+    padding-left: 8px;
+    padding-top: 10px;
+    border: 10px solid #fff;
+    background: #fff;
+}
+
+.arrow {
+    position: relative;
+    left: 170px;
+    bottom: 32px; 
+    text-decoration: none;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #fff;
+    background: #5db443;
+}
+
+.noborderfirst {
+    width: 480px;
+    position: relative;
+    right: 200px;
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+
+.radiusdev {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    position: relative;
+    right: 220px;
+    top: 250px;
+    color: #757776;
+}
+
+.wrapperfootertwo {
+    position: relative;
+    bottom: 180px;
+    display: flex;
+    justify-content: center;
+}
+
+.qucklinks p {
+    position: relative;
+    left: 100px;
+    padding-top: 20px; 
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
+
+.legal p {
+    position: relative;
+    left: 300px;
+    padding-top: 20px; 
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
+
+.information p {
+    position: relative;
+    left: 400px;
+    padding-top: 20px; 
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
+
+.qucklinkstext {
+    position: relative;
+    left: 100px;
+    font-size: 15px;
+}
+
+.legal h6 {
+    position: relative;
+    left: 300px;
+    font-size: 15px;
+}
+
+.information h6 {
+    position: relative;
+    left: 400px;
+    font-size: 15px;
+}
+
+.radiusright {
+    width: 100px;
+    position: relative;
+    left: 700px;
+    top: 100px;
+    color: #c4c4c4;
+}
+
+.radiusrighttwo {
+    padding-top: 5px;
+    position: relative;
+    left: 750px;
+    top: 100px;
+    color: #c4c4c4;
+}
+
+.stripenine {
+    z-index: 1;
+    position: relative;
+    top: 400px;
+    background: #e3e3e3;
+    height: 2px;
+    width: 100%;  
+}
+
+@media screen and (max-width: 769px) {
+
+    .wrapperprogrammingplatformimage {
+        grid-template-columns: auto auto;
+    }
+
+    .programmingplatformimage {
+        left: 15px;
+    }
+
+    .programmingplatformimagetwo {
+        left: -15px;
+    }
+
+    .programmingplatformimagefour {
+        left: -15px;
+    }
+
+    .programmingplatformimagefive {
+        left: 15px;
+    }
+
+    .programmingplatformimagesix {
+        left: -15px;
+    }
+
+    .programmingplatformimageeight {
+        left: -15px;
+    }
+
+    .wrappermain img {
+        padding-bottom: 20px;
+        position: relative;
+        left: 180px;
+        width: 50%;
+    }
+
+    footer {
+        background: #efefef;
+        padding-bottom: 20px;
+        height: 700px;
+    }
+
+    .wrapperfootertwo {
+        padding-top: 170px;
+        right: 390px;
+    }
+
+    .stripenine {
+        top: 550px;
+    }
+
+    .radiusdev {
+        left: 20px;
+        top: 380px;
+    }
+
+    .wrappermain p {
+        left: 90px;
+    }
+
+    .wrapperheader {
+        position: relative;
+        right: 20px;
+        margin: 0 auto;
+        max-width: 550px;
+    }
+
+    .phonetext {
+        position: relative;
+        right: 170px;
+    }
+
+    .phone {
+        left: 80px;
+    }
+
+    .mailtext {
+        position: relative;
+        right: 65px;
+    }
+
+    .mail {
+        left: 260px;
+    }
+
+    .borderptwo {
+        left: 25px;
+    }
+
+    .noborderfirst {
+        position: relative;
+        left: 25px;
+    }
+
+    .radiusrightfirst {
+        left: 25px;
+    } 
+
+    .arrow {
+        left: 400px;
+    }
+
+    .stripe {
+        bottom: 1440px;
+    }
+
+    .stripetwo {
+        bottom: 1440px;
+        left: 510px;
+    }
+
+    .stripethree {
+        left: 150px;
+        bottom: 1070px;
+    }
+
+    .stripefour {
+        left: 500px;
+        bottom: 1070px;
+    }
+
+    .stripefive {
+        left: 150px;
+        bottom: 710px;
+    }
+
+    .stripesix {
+        left: 500px;
+        bottom: 700px;
+    }
+
+    .stripeseven {
+        left: 150px;
+        bottom: 335px;
+    }
+
+    .stripeeight {
+        left: 505px;
+        bottom: 340px;
+    }
+
+    .qucklinkstext {
+        left: 250px;
+    }
+
+    .qucklinks p {
+        left: 250px;
+    }
+}

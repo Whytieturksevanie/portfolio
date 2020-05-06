@@ -1,0 +1,387 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    border-top: 10px solid #f2ac04;
+    width: 100%;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    border-right: 2px solid #c0c0c0;
+    padding-right: 25px; 
+}
+
+.headertext {
+    font-size: 22px;
+    text-align: center;
+    color: #f2ac04;
+}
+
+.wrapperheadertwo {
+    padding-left: 25px;
+}
+
+.wrapperheader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logoimage {
+    padding-right: 10px;
+}
+
+.headertexttwo {
+    color: #c0c0c0;
+}
+
+.button {
+    text-decoration: none;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: #000000;
+}
+
+.wrappernav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-top: 2px solid #aeaeae;
+    border-bottom: 2px solid #aeaeae;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+}
+
+.bannner {
+    padding-top: 50px;
+    padding-bottom: 30px;
+    border-bottom: 2px solid #d9d9d9; 
+}
+
+.wrapperbanner {
+    display: flex;
+    margin: 0 auto;
+    max-width: 960px; 
+}
+
+.featured {
+    padding-bottom: 20px;
+}
+
+.wrapperbannerzerofirst {
+    border: 2px solid #aeaeae;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+}
+
+.wrapperbannerfirst {
+    margin-left: 20px;
+}
+
+.undertextfirst {
+    display: flex;
+    align-items: center;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    border-right: 2px solid #c0c0c0;
+    border-left: 2px solid #c0c0c0;
+    border-bottom: 2px solid #c0c0c0;
+    position: relative;
+    bottom: 4px;
+}
+
+.arrowleft {
+    padding-right: 30px;
+    padding-left: 15px;
+}
+
+.arrowright {
+    padding-left: 160px;
+}
+
+.bannnerimagetwo {
+    position: relative;
+    top: 40px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #2b2b29;
+}
+
+.textimagefirst {
+    color: #ffffff;
+    font-weight: normal;
+    padding-left: 5px;
+    position: relative;
+    z-index: 1;
+    bottom: 120px;
+}
+
+.textimagetwo {
+    font-size: 45px;
+    color: #ffffff;
+    font-weight: normal;
+    padding-left: 5px;
+    position: relative;
+    z-index: 1;
+    bottom: 120px;
+}
+
+.dutchbanner {
+    position: relative;
+    bottom: 80px; 
+}
+
+.buttonmore {
+   text-decoration: none;
+    color: #ffffff;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    background: #2b2b29;
+    position: relative;
+    bottom: 65px;
+    left: 364px;
+}
+
+.buttonarrow {
+    text-decoration: none;
+    color: #ffffff;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    background: #2b2b29;
+    position: relative;
+    bottom: 65px;
+    left: 365px;
+}
+
+.wrappermain {
+    padding-top: 20px;
+    display: flex;
+    margin: 0 auto;
+    max-width: 960px;
+    padding-bottom: 50px;
+}
+
+.wrappermaintwo {
+    padding-top: 20px;
+    display: flex;
+}
+
+.wrappermainthree {
+    padding-top: 20px;
+    display: flex;
+}
+
+.maintext {
+    padding-top: 20px;
+    margin: 0 auto;
+    max-width: 960px
+}
+
+.wrappermainzerotexttwo {
+    color: #c0c0c0;
+    padding-left: 20px;
+}
+
+.wrappermainzerotextfirst {
+    padding-left: 20px;
+}
+
+.datetext {
+    border-right: 2px solid #c0c0c0;
+    padding-right: 5px;
+    padding-left: 5px;
+    color: #f2ac04;
+}
+
+.datetexttwo {
+    border-right: 2px solid #c0c0c0;
+    padding-right: 20px;
+}
+
+.circling {
+    position: relative;
+    right: 50px;
+} 
+
+.wrappermainfour {
+    border-left: 2px solid #c0c0c0;
+    border-right: 2px solid #c0c0c0;
+    position: relative;
+    right: 140px;
+    padding-right: 20px;
+    padding-left: 25px; 
+}
+
+.wrappermainfourtext {
+    width: 250px;
+}
+
+.wrappermainfivetext {
+    width: 200px;
+}
+
+.wrappermainfive {
+    position: relative;
+    right: 90px;
+}
+
+.mainphone {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 15px;
+}
+
+.mainfax {
+    padding-top: 10px;
+    padding-right: 15px;
+}
+
+.mainhouse {
+    padding-right: 15px;
+}
+
+.wrappermainfivetexttwo {
+    padding-left: 42px;
+}
+
+.buttonmoretwo {
+    text-decoration: none;
+    color: #ffffff;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    background: #2b2b29;
+    position: relative;
+    left: 165px;
+}
+
+.buttonarrowtwo {
+    text-decoration: none;
+    color: #ffffff;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    background: #2b2b29;
+    position: relative;
+    left: 168px;
+}
+
+.wrapperundermain {
+    margin: 0 auto;
+    max-width: 960px;
+}
+
+.wrapperundermainzero {
+    padding-bottom: 20px;
+    padding-top: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.wrapperundermaintext {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.undermain {
+    border-bottom: 2px solid #c0c0c0;
+}
+
+footer {
+    margin: 0 auto;
+    max-width: 960px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.wrapperfooterfirst {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.wrapperfooterfirst a {
+    font-size: 10px;
+    padding-left: 20px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.footerlogo {
+    display: flex;
+    justify-content: center;
+}
+
+.footertextlogo {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+}
+
+.wrappermainfourtexttwo {
+    position: relative;
+    bottom: 35px;
+}
+
+.buttonhome {
+    border-right: 2px solid #2b2b29;
+    padding-right: 20px;
+}
+
+.buttonabout {
+    border-right: 2px solid #2b2b29;
+    padding-right: 20px; 
+}
+
+.buttonwork {
+    border-right: 2px solid #2b2b29;
+    padding-right: 20px; 
+}  
+
+.buttonservices {
+    border-right: 2px solid #2b2b29;
+    padding-right: 20px; 
+}
+
+.buttonresources {
+    border-right: 2px solid #2b2b29;
+    padding-right: 20px; 
+}
+
+.buttonarticles {
+    border-right: 2px solid #2b2b29;
+    padding-right: 20px; 
+}
+
+.split-border span::before,
+.split-border span::after {
+  border-top: 2px solid #aeaeae;
+  content: "";
+  position: absolute;
+  width: 470px;
+}
+
+.split-border span::after {
+    left: 565px;
+    top: 6px;
+    width: 1338px;
+}
+
+.split-border span:before {
+    top: 6px;
+}
+
+.split-border span {
+  position: relative;  
+}
