@@ -1,0 +1,33 @@
+C:\Projects\UitwerkingToetsFundamentals\UitwerkingToetsFundamentals\bin\Debug\UitwerkingToetsFundamentals.exe.config
+C:\Projects\UitwerkingToetsFundamentals\UitwerkingToetsFundamentals\bin\Debug\UitwerkingToetsFundamentals.exe
+C:\Projects\UitwerkingToetsFundamentals\UitwerkingToetsFundamentals\bin\Debug\UitwerkingToetsFundamentals.pdb
+C:\Projects\UitwerkingToetsFundamentals\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.csprojAssemblyReference.cache
+C:\Projects\UitwerkingToetsFundamentals\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.CashRegisterForm.resources
+C:\Projects\UitwerkingToetsFundamentals\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.GameInventoryForm.resources
+C:\Projects\UitwerkingToetsFundamentals\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.Properties.Resources.resources
+C:\Projects\UitwerkingToetsFundamentals\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.csproj.GenerateResource.cache
+C:\Projects\UitwerkingToetsFundamentals\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.csproj.CoreCompileInputs.cache
+C:\Projects\UitwerkingToetsFundamentals\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.exe
+C:\Projects\UitwerkingToetsFundamentals\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.pdb
+D:\Projects\Work\UitwerkingToetsFundamentals\UitwerkingToetsFundamentals\bin\Debug\UitwerkingToetsFundamentals.exe.config
+D:\Projects\Work\UitwerkingToetsFundamentals\UitwerkingToetsFundamentals\bin\Debug\UitwerkingToetsFundamentals.exe
+D:\Projects\Work\UitwerkingToetsFundamentals\UitwerkingToetsFundamentals\bin\Debug\UitwerkingToetsFundamentals.pdb
+D:\Projects\Work\UitwerkingToetsFundamentals\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.csprojAssemblyReference.cache
+D:\Projects\Work\UitwerkingToetsFundamentals\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.CashRegisterForm.resources
+D:\Projects\Work\UitwerkingToetsFundamentals\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.GameInventoryForm.resources
+D:\Projects\Work\UitwerkingToetsFundamentals\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.Properties.Resources.resources
+D:\Projects\Work\UitwerkingToetsFundamentals\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.csproj.GenerateResource.cache
+D:\Projects\Work\UitwerkingToetsFundamentals\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.csproj.CoreCompileInputs.cache
+D:\Projects\Work\UitwerkingToetsFundamentals\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.exe
+D:\Projects\Work\UitwerkingToetsFundamentals\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.pdb
+C:\Users\Esma_\OneDrive\Bureaublad\toets C sharp\UitwerkingToetsFundamentals\bin\Debug\UitwerkingToetsFundamentals.exe.config
+C:\Users\Esma_\OneDrive\Bureaublad\toets C sharp\UitwerkingToetsFundamentals\bin\Debug\UitwerkingToetsFundamentals.exe
+C:\Users\Esma_\OneDrive\Bureaublad\toets C sharp\UitwerkingToetsFundamentals\bin\Debug\UitwerkingToetsFundamentals.pdb
+C:\Users\Esma_\OneDrive\Bureaublad\toets C sharp\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.csprojAssemblyReference.cache
+C:\Users\Esma_\OneDrive\Bureaublad\toets C sharp\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.CashRegisterForm.resources
+C:\Users\Esma_\OneDrive\Bureaublad\toets C sharp\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.GameInventoryForm.resources
+C:\Users\Esma_\OneDrive\Bureaublad\toets C sharp\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.Properties.Resources.resources
+C:\Users\Esma_\OneDrive\Bureaublad\toets C sharp\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.csproj.GenerateResource.cache
+C:\Users\Esma_\OneDrive\Bureaublad\toets C sharp\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Esma_\OneDrive\Bureaublad\toets C sharp\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.exe
+C:\Users\Esma_\OneDrive\Bureaublad\toets C sharp\UitwerkingToetsFundamentals\obj\Debug\UitwerkingToetsFundamentals.pdb

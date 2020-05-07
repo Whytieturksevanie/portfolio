@@ -1,0 +1,12 @@
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\tweede en derde opdracht\straattaal en brabants translate en Woordenboek\straattaal Woordenboek\bin\Debug\straattaal Woordenboek.exe.config
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\tweede en derde opdracht\straattaal en brabants translate en Woordenboek\straattaal Woordenboek\bin\Debug\straattaal Woordenboek.exe
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\tweede en derde opdracht\straattaal en brabants translate en Woordenboek\straattaal Woordenboek\bin\Debug\straattaal Woordenboek.pdb
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\tweede en derde opdracht\straattaal en brabants translate en Woordenboek\straattaal Woordenboek\obj\Debug\Straattaal en Brabants translate en woordenboek.csprojAssemblyReference.cache
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\tweede en derde opdracht\straattaal en brabants translate en Woordenboek\straattaal Woordenboek\obj\Debug\straattaal_Woordenboek.dictionaryForm.resources
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\tweede en derde opdracht\straattaal en brabants translate en Woordenboek\straattaal Woordenboek\obj\Debug\straattaal_Woordenboek.dictionaryBrabantsFrom.resources
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\tweede en derde opdracht\straattaal en brabants translate en Woordenboek\straattaal Woordenboek\obj\Debug\straattaal_Woordenboek.Properties.Resources.resources
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\tweede en derde opdracht\straattaal en brabants translate en Woordenboek\straattaal Woordenboek\obj\Debug\Straattaal en Brabants translate en woordenboek.csproj.GenerateResource.cache
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\tweede en derde opdracht\straattaal en brabants translate en Woordenboek\straattaal Woordenboek\obj\Debug\Straattaal en Brabants translate en woordenboek.csproj.CoreCompileInputs.cache
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\tweede en derde opdracht\straattaal en brabants translate en Woordenboek\straattaal Woordenboek\obj\Debug\straattaal Woordenboek.exe
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\tweede en derde opdracht\straattaal en brabants translate en Woordenboek\straattaal Woordenboek\obj\Debug\straattaal Woordenboek.pdb
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\tweede en derde opdracht\straattaal en brabants translate en Woordenboek\straattaal Woordenboek\obj\Debug\straattaal_Woordenboek.MainFrom.resources

@@ -1,0 +1,26 @@
+C:\Users\Esma_\OneDrive\Bureaublad\school\VHT’s\periode 5 twee jaar\C sharp\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Esma_\OneDrive\Bureaublad\school\VHT’s\periode 5 twee jaar\C sharp\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Esma_\OneDrive\Bureaublad\school\VHT’s\periode 5 twee jaar\C sharp\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Esma_\OneDrive\Bureaublad\school\VHT’s\periode 5 twee jaar\C sharp\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Esma_\OneDrive\Bureaublad\school\VHT’s\periode 5 twee jaar\C sharp\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Esma_\OneDrive\Bureaublad\school\VHT’s\periode 5 twee jaar\C sharp\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Esma_\OneDrive\Bureaublad\school\VHT’s\periode 5 twee jaar\C sharp\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Esma_\OneDrive\Bureaublad\school\VHT’s\periode 5 twee jaar\C sharp\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Esma_\OneDrive\Bureaublad\school\VHT’s\periode 5 twee jaar\C sharp\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Esma_\OneDrive\Bureaublad\school\VHT’s\periode 5 twee jaar\C sharp\Calculator\Calculator\obj\Debug\Calculator.CircleCalculatorForm.resources
+C:\Users\Esma_\OneDrive\Bureaublad\school\VHT’s\periode 5 twee jaar\C sharp\Calculator\Calculator\obj\Debug\Calculator.RectangleCalculatorForm.resources
+C:\Users\Esma_\OneDrive\Bureaublad\school\VHT’s\periode 5 twee jaar\C sharp\Calculator\Calculator\obj\Debug\Calculator.SquareCalculatorForm.resources
+C:\Users\Esma_\OneDrive\Bureaublad\school\VHT’s\periode 5 twee jaar\C sharp\Calculator\Calculator\obj\Debug\Calculator.RightAngledTriangleCalculatorForm.resources
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\Calculator\Calculator\obj\Debug\Calculator.CircleCalculatorForm.resources
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\Calculator\Calculator\obj\Debug\Calculator.RectangleCalculatorForm.resources
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\Calculator\Calculator\obj\Debug\Calculator.RightAngledTriangleCalculatorForm.resources
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\Calculator\Calculator\obj\Debug\Calculator.SquareCalculatorForm.resources
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\Calculator\Calculator\obj\Debug\Calculator.pdb

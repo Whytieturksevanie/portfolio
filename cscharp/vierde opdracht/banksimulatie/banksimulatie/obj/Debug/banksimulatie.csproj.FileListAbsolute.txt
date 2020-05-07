@@ -1,0 +1,12 @@
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\vierde opdracht\banksimulatie\banksimulatie\bin\Debug\banksimulatie.exe.config
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\vierde opdracht\banksimulatie\banksimulatie\bin\Debug\banksimulatie.exe
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\vierde opdracht\banksimulatie\banksimulatie\bin\Debug\banksimulatie.pdb
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\vierde opdracht\banksimulatie\banksimulatie\obj\Debug\banksimulatie.csprojAssemblyReference.cache
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\vierde opdracht\banksimulatie\banksimulatie\obj\Debug\banksimulatie.Properties.Resources.resources
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\vierde opdracht\banksimulatie\banksimulatie\obj\Debug\banksimulatie.csproj.GenerateResource.cache
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\vierde opdracht\banksimulatie\banksimulatie\obj\Debug\banksimulatie.csproj.CoreCompileInputs.cache
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\vierde opdracht\banksimulatie\banksimulatie\obj\Debug\banksimulatie.exe
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\vierde opdracht\banksimulatie\banksimulatie\obj\Debug\banksimulatie.pdb
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\vierde opdracht\banksimulatie\banksimulatie\obj\Debug\banksimulatie.MainForm.resources
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\vierde opdracht\banksimulatie\banksimulatie\obj\Debug\banksimulatie.NewAccountForm.resources
+C:\Users\Esma_\OneDrive\Bureaublad\school\gap week\vierde opdracht\banksimulatie\banksimulatie\obj\Debug\banksimulatie.newTransactiesForm.resources

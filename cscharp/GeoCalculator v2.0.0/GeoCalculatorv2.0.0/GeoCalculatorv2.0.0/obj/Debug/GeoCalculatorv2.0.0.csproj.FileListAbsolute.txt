@@ -1,0 +1,15 @@
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\GeoCalculator v2.0.0\GeoCalculatorv2.0.0\GeoCalculatorv2.0.0\bin\Debug\GeoCalculatorv2.0.0.exe.config
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\GeoCalculator v2.0.0\GeoCalculatorv2.0.0\GeoCalculatorv2.0.0\bin\Debug\GeoCalculatorv2.0.0.exe
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\GeoCalculator v2.0.0\GeoCalculatorv2.0.0\GeoCalculatorv2.0.0\bin\Debug\GeoCalculatorv2.0.0.pdb
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\GeoCalculator v2.0.0\GeoCalculatorv2.0.0\GeoCalculatorv2.0.0\obj\Debug\GeoCalculatorv2.0.0.csprojAssemblyReference.cache
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\GeoCalculator v2.0.0\GeoCalculatorv2.0.0\GeoCalculatorv2.0.0\obj\Debug\MainWindow.g.cs
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\GeoCalculator v2.0.0\GeoCalculatorv2.0.0\GeoCalculatorv2.0.0\obj\Debug\App.g.cs
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\GeoCalculator v2.0.0\GeoCalculatorv2.0.0\GeoCalculatorv2.0.0\obj\Debug\GeoCalculatorv2.0.0_MarkupCompile.cache
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\GeoCalculator v2.0.0\GeoCalculatorv2.0.0\GeoCalculatorv2.0.0\obj\Debug\GeoCalculatorv2.0.0_MarkupCompile.lref
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\GeoCalculator v2.0.0\GeoCalculatorv2.0.0\GeoCalculatorv2.0.0\obj\Debug\MainWindow.baml
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\GeoCalculator v2.0.0\GeoCalculatorv2.0.0\GeoCalculatorv2.0.0\obj\Debug\GeoCalculatorv2.0.0.g.resources
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\GeoCalculator v2.0.0\GeoCalculatorv2.0.0\GeoCalculatorv2.0.0\obj\Debug\GeoCalculatorv2._0._0.Properties.Resources.resources
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\GeoCalculator v2.0.0\GeoCalculatorv2.0.0\GeoCalculatorv2.0.0\obj\Debug\GeoCalculatorv2.0.0.csproj.GenerateResource.cache
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\GeoCalculator v2.0.0\GeoCalculatorv2.0.0\GeoCalculatorv2.0.0\obj\Debug\GeoCalculatorv2.0.0.csproj.CoreCompileInputs.cache
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\GeoCalculator v2.0.0\GeoCalculatorv2.0.0\GeoCalculatorv2.0.0\obj\Debug\GeoCalculatorv2.0.0.exe
+C:\Users\Esma_\OneDrive\Bureaublad\VHT_Tweede_jaar_micro_visual_studio\GeoCalculator v2.0.0\GeoCalculatorv2.0.0\GeoCalculatorv2.0.0\obj\Debug\GeoCalculatorv2.0.0.pdb

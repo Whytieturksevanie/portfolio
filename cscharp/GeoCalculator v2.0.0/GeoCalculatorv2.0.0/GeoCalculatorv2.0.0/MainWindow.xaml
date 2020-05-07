@@ -1,0 +1,86 @@
+﻿<Window x:Class="GeoCalculatorv2._0._0.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GeoCalculatorv2._0._0"
+        mc:Ignorable="d"
+        Title="GeoCalculator" Height="960" Width="1050" Background="#FF28D3CB" FontFamily="Calibri">
+    <StackPanel x:Name="body">
+        <Label FontSize="20" FontWeight="Bold" Margin="10,20,20,20" HorizontalAlignment="Center">Vormen Rekenmachine</Label>
+        <StackPanel x:Name="header" Orientation="Horizontal">
+            <StackPanel x:Name="headertwo" Orientation="Vertical">
+                <Label FontSize="20" FontWeight="Bold" Margin="10,15,0,0" HorizontalAlignment="Left">Vierkant</Label>
+                <Label FontSize="18" Margin="10,25,0,0">Vierkant omtrek</Label>
+                <Label Margin="10,20,0,0" FontSize="18">Lengte/breedte</Label>
+                <TextBox Width="200" HorizontalAlignment="Left" Name="squareOutlineTextBox" Margin="10,0,0,0" FontSize="20"></TextBox>
+                <Label Margin="10,15,0,15" FontSize="18" FontFamily="Calibri" Name="squareOutlineLabel" HorizontalContentAlignment="Left"></Label>
+                <Button Width="200" HorizontalAlignment="Left" Padding="10,10,10,10" Background="#FF0331FF" Name="squareButton" FontSize="18" Click="SquareButton_Click" Margin="10,0,0,0">Berekent de omtrek</Button>
+            </StackPanel>
+            <StackPanel x:Name="main" Margin="50,50,0,0" Orientation="Vertical">
+                <Label Margin="0,23,0,20" FontSize="18" Content="Vierkant Oppervlakte"/>
+                <Label Margin="0,0,0,0" FontSize="18">Lengte/breedte</Label>
+                <TextBox Width="200" FontSize="20" HorizontalAlignment="Left" x:Name="squareAreaTextBox"/>
+                <Label Margin="0,10,0,20" FontSize="18" FontFamily="Calibri" x:Name="squareAreaLabel" HorizontalAlignment="Left"></Label>
+                <Button MaxWidth="250" Margin="0,0,0,0" HorizontalAlignment="Left" Padding="10,10,10,10" Background="#FF0331FF" x:Name="squarAreaButton" FontSize="18" Click="SquarAreaButton_Click" Content="Berekent de oppervlakte"/>
+            </StackPanel>
+            <StackPanel Orientation="Vertical">
+                <Label FontSize="20" FontWeight="Bold" Margin="100,15,50,0" HorizontalAlignment="Left">Rechthoek</Label>
+                <Label FontSize="18" Margin="100,25,0,0">Rechthoek omtrek</Label>
+                <Label Margin="100,20,0,0" FontSize="18">Lengte</Label>
+                <TextBox Width="200" HorizontalAlignment="Left" Name="rectangleOutlineTextBox" Margin="100,0,0,0" FontSize="20"></TextBox>
+                <Label Margin="100,20,0,0" FontSize="18">Breedte</Label>
+                <TextBox Width="200" HorizontalAlignment="Left" Name="rectangleWidthOutlineTextBox" Margin="100,0,0,0" FontSize="20"></TextBox>
+                <Label Margin="100,15,0,15" FontSize="18" FontFamily="Calibri" Name="rectangleOutlineLabel" HorizontalContentAlignment="Left"></Label>
+                <Button Width="200" HorizontalAlignment="Left" Padding="10,10,10,10" Background="#FF0331FF" Name="rectangleOutlineButton" FontSize="18" Margin="100,0,0,0" Click="RectangleOutlineButton_Click">Berekent de omtrek</Button>
+            </StackPanel>
+            <StackPanel x:Name="maintwo" Margin="50,50,0,0" Orientation="Vertical">
+                <Label Margin="0,23,0,20" FontSize="18" Content="Vierkant Oppervlakte"/>
+                <Label Margin="0,0,0,0" FontSize="18">Lengte</Label>
+                <TextBox Width="200" FontSize="20" HorizontalAlignment="Left" x:Name="rectangleAreaTextBox"/>
+                <Label Margin="0,20,0,0" FontSize="18">Breedte</Label>
+                <TextBox Width="200" FontSize="20" HorizontalAlignment="Left" x:Name="rectangleWithAreaTextBox"/>
+                <Label Margin="0,15,0,16" FontSize="18" FontFamily="Calibri" x:Name="rectangleAreaLabel" HorizontalAlignment="Left" Width="200"></Label>
+                <Button MaxWidth="250" Margin="0,0,0,0" HorizontalAlignment="Left" Padding="10,10,10,10" Background="#FF0331FF" x:Name="rectangleAreaButton" FontSize="18" Content="Berekent de oppervlakte" Click="RectangleAreaButton_Click"/>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <StackPanel Orientation="Vertical">
+                <Label FontSize="20" FontWeight="Bold" Margin="10,50,50,0" HorizontalAlignment="Left">Cirkel</Label>
+                <Label FontSize="18" Margin="10,25,0,0">Cirkel omtrek</Label>
+                <Label Margin="10,20,0,0" FontSize="18">Diameter</Label>
+                <TextBox Width="200" HorizontalAlignment="Left" Name="circleOutlineTextBox" Margin="10,0,0,0" FontSize="20"></TextBox>
+                <Label Margin="10,15,0,15" FontSize="18" FontFamily="Calibri" Name="circleOutlineLabel" HorizontalContentAlignment="Left"></Label>
+                <Button Width="200" HorizontalAlignment="Left" Padding="10,10,10,10" Background="#FF0331FF" Name="circleOutlineButton" FontSize="18" Margin="10,0,0,0" Click="CircleOutlineButton_Click">Berekent de omtrek</Button>
+            </StackPanel>
+            <StackPanel Orientation="Vertical">
+                <Label FontSize="18" Margin="50,110,0,0">Cirkel oppervlakte</Label>
+                <Label Margin="50,20,0,0" FontSize="18">Straal</Label>
+                <TextBox Width="200" HorizontalAlignment="Left" Name="circleAreaTextBox" Margin="50,0,0,0" FontSize="20"></TextBox>
+                <Label Margin="50,15,0,15" FontSize="18" FontFamily="Calibri" Name="circleAreaLabel" HorizontalContentAlignment="Left"></Label>
+                <Button Width="200" HorizontalAlignment="Left" Padding="10,10,10,10" Background="#FF0331FF" Name="circleAreaButton" FontSize="18" Margin="50,0,0,0" Click="CircleAreaButton_Click">Berekent de omtrek</Button>
+            </StackPanel>
+            <StackPanel Orientation="Vertical">
+                <Label FontSize="20" FontWeight="Bold" Margin="100,50,50,0" HorizontalAlignment="Left">Driehoek</Label>
+                <Label FontSize="18" Margin="100,25,0,0">Driehoek omtrek</Label>
+                <Label Margin="100,20,0,0" FontSize="18">Zijden 1</Label>
+                <TextBox Width="200" HorizontalAlignment="Left" Name="traingleOutlineTextBox" Margin="100,0,0,0" FontSize="20"></TextBox>
+                <Label Margin="100,20,0,0" FontSize="18">Zijden 2</Label>
+                <TextBox Width="200" HorizontalAlignment="Left" Name="traingleWithOutlineTextBox" Margin="100,0,0,0" FontSize="20"></TextBox>
+                <Label Margin="100,20,0,0" FontSize="18">Zijden 3</Label>
+                <TextBox Width="200" HorizontalAlignment="Left" Name="traingleHeightOutlineTextBox" Margin="100,0,0,0" FontSize="20"></TextBox>
+                <Label Margin="100,15,0,15" FontSize="18" FontFamily="Calibri" Name="traingleOutlineLabel" HorizontalContentAlignment="Left"></Label>
+                <Button Width="200" HorizontalAlignment="Left" Padding="10,10,10,10" Background="#FF0331FF" Name="traingleOutlineButton" FontSize="18" Margin="100,0,0,0" Click="TraingleOutlineButton_Click">Berekent de omtrek</Button>
+            </StackPanel>
+            <StackPanel Orientation="Vertical">
+                <Label FontSize="18" Margin="55,110,0,0">Driehoek oppervlakte</Label>
+                <Label Margin="50,20,0,0" FontSize="18">Basis</Label>
+                <TextBox Width="200" HorizontalAlignment="Left" Name="traingleAreaTextBox" Margin="55,0,0,0" FontSize="20"></TextBox>
+                <Label Margin="55,20,0,0" FontSize="18">Hoogte</Label>
+                <TextBox Width="200" HorizontalAlignment="Left" Name="traingleWithAreaTextBox" Margin="55,0,0,0" FontSize="20"></TextBox>
+                <Label Margin="55,15,0,15" FontSize="18" FontFamily="Calibri" Name="traingleAreaLabel" HorizontalContentAlignment="Left"></Label>
+                <Button Width="200" HorizontalAlignment="Left" Padding="10,10,10,10" Background="#FF0331FF" Name="traingleAreaButton" FontSize="18" Margin="55,0,0,0" Click="TraingleAreaButton_Click">Berekent de omtrek</Button>
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+</Window>

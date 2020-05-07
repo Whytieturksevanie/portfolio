@@ -1,0 +1,11 @@
+C:\Users\Esma_\OneDrive\Bureaublad\Visual studio\woordentraniner\Wordtrainer\Wordtrainer\bin\Debug\Wordtrainer.exe.config
+C:\Users\Esma_\OneDrive\Bureaublad\Visual studio\woordentraniner\Wordtrainer\Wordtrainer\bin\Debug\Wordtrainer.exe
+C:\Users\Esma_\OneDrive\Bureaublad\Visual studio\woordentraniner\Wordtrainer\Wordtrainer\bin\Debug\Wordtrainer.pdb
+C:\Users\Esma_\OneDrive\Bureaublad\Visual studio\woordentraniner\Wordtrainer\Wordtrainer\obj\Debug\Wordtrainer.csprojAssemblyReference.cache
+C:\Users\Esma_\OneDrive\Bureaublad\Visual studio\woordentraniner\Wordtrainer\Wordtrainer\obj\Debug\Wordtrainer.MainForm.resources
+C:\Users\Esma_\OneDrive\Bureaublad\Visual studio\woordentraniner\Wordtrainer\Wordtrainer\obj\Debug\Wordtrainer.Properties.Resources.resources
+C:\Users\Esma_\OneDrive\Bureaublad\Visual studio\woordentraniner\Wordtrainer\Wordtrainer\obj\Debug\Wordtrainer.csproj.GenerateResource.cache
+C:\Users\Esma_\OneDrive\Bureaublad\Visual studio\woordentraniner\Wordtrainer\Wordtrainer\obj\Debug\Wordtrainer.csproj.CoreCompileInputs.cache
+C:\Users\Esma_\OneDrive\Bureaublad\Visual studio\woordentraniner\Wordtrainer\Wordtrainer\obj\Debug\Wordtrainer.exe
+C:\Users\Esma_\OneDrive\Bureaublad\Visual studio\woordentraniner\Wordtrainer\Wordtrainer\obj\Debug\Wordtrainer.pdb
+C:\Users\Esma_\OneDrive\Bureaublad\Visual studio\woordentraniner\Wordtrainer\Wordtrainer\obj\Debug\Wordtrainer.ExerciseForm.resources
